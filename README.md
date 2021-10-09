@@ -14,7 +14,7 @@ An example is included in the project called input_file.csv.
 
 To create place a new order, the format is
 
-	`N, <user_id>, <stock>, <price>, <amount>, <(B)uy/(S)ell>, <order_id>`
+	N, <user_id>, <stock>, <price>, <amount>, <(B)uy/(S)ell>, <order_id>
 
 The books can be flushed with
 
