@@ -1,9 +1,10 @@
 # Order Book Programming Excercise
 Simulates order book, buying, selling, canceling, and trading based on csv input.
 
-usage: order_book <path/to/input.csv> [-t]
+	usage: order_book <path/to/input.csv> [-t]
 
-options:
+	options:
+
 	-t: Enables Trading. Without this switch, book crossing will trigger a
 	    reject
 
